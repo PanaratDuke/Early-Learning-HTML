@@ -1,0 +1,33 @@
+h1 {
+  text-align: center;
+  background-color: rgb(153, 199, 252);
+  color: rgb(90, 81, 81);
+}
+
+h2 {
+  text-align: center;
+  color: deeppink;
+}
+
+h3 {
+  color: orange;
+}
+
+img {
+  box-shadow: 10px 10px 5px black;
+}
+
+section {
+  background-color: #000;
+}
+
+p {
+  font-size: 15px;
+  color: gray;
+}
+
+ul {
+  text-align: center;  
+  border-style: solid;
+  color: gray;
+}
